@@ -1,5 +1,4 @@
 # Learn
-Some more changes in master
-Initial commit in master - changed in develop
-Changes in develop
+Some more changes in master1
+Initial commit in master
 
